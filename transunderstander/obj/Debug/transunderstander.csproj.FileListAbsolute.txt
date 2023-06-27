@@ -1,0 +1,11 @@
+C:\Users\Jake\source\repos\transunderstander\transunderstander\bin\Debug\transunderstander.exe.config
+C:\Users\Jake\source\repos\transunderstander\transunderstander\bin\Debug\transunderstander.exe
+C:\Users\Jake\source\repos\transunderstander\transunderstander\bin\Debug\transunderstander.pdb
+C:\Users\Jake\source\repos\transunderstander\transunderstander\obj\Debug\transunderstander.csproj.AssemblyReference.cache
+C:\Users\Jake\source\repos\transunderstander\transunderstander\obj\Debug\transunderstander.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jake\source\repos\transunderstander\transunderstander\obj\Debug\transunderstander.Form1.resources
+C:\Users\Jake\source\repos\transunderstander\transunderstander\obj\Debug\transunderstander.Properties.Resources.resources
+C:\Users\Jake\source\repos\transunderstander\transunderstander\obj\Debug\transunderstander.csproj.GenerateResource.cache
+C:\Users\Jake\source\repos\transunderstander\transunderstander\obj\Debug\transunderstander.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\transunderstander\transunderstander\obj\Debug\transunderstander.exe
+C:\Users\Jake\source\repos\transunderstander\transunderstander\obj\Debug\transunderstander.pdb
